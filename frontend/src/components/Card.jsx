@@ -1,5 +1,5 @@
 import React from 'react'
-import cardImage from '../images/cardimage.svg'
+import cardImage from '../images/cardImage.jpg'
 import Mobile from "../images/mobile.jpg"
 import Store from "../images/store.jpg"
 
