@@ -1,7 +1,7 @@
 const express = require("express")
 const mongoose = require("mongoose")
 const cors = require("cors")
-const User = require("./model/User")
+const User = require("../backend/model/User.js")
 
 const app = express()
 app.use(express.json())
